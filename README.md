@@ -17,7 +17,7 @@ A NLW é uma experiência online criada pela Rocketseat de uma semana com muito 
 
 O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente.
  
-<h2 align="center"> 📷 Screenshot da home page do projeto: </h2>
+<h2 align="center"> 📷 Demonstração da aplicação mobile do projeto: </h2>
 
 <div align="center">
  
