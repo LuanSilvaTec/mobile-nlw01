@@ -31,5 +31,3 @@ steps:
 		<param name="allowScriptAccess" value="always">
 		<embed src="http://www.youtube.com/v/IUsV--AhxrM?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360">
 	</object>
-	
-	<object style="height: 390px; width: 640px">
