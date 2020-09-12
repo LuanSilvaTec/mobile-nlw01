@@ -19,6 +19,8 @@ O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas c
  
 <h2 align="center"> 📷 Screenshot da home page do projeto: </h2>
 
+<p align="center">
 [![Demo CountPages alpha](./assets/nlw_2.gif)](https://www.youtube.com/watch?v=Pvr31HZ28CA&feature=youtu.be)
+</p>
 
 
