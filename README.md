@@ -25,4 +25,15 @@ O Ecoleta Mobile é um projeto criado para gerenciar o processo de coleta de lix
 
 </div>
 
+_________
+
+<div>
+
+[![Luan Silva](https://avatars.githubusercontent.com/LuanSilvaTec?v=3&s=144)](https://github.com/LuanSilvaTec)| [![Quandl.com](https://avatars.githubusercontent.com/linkedin?v=3&s=144)](https://www.linkedin.com/in/luan-silva-649010144/)
+  ---|---
+[Perfil Github ](https://github.com/iharsh234) |[Perfil Linkedin](https://www.quandl.com)
+
+</div>
+
+_________
 
