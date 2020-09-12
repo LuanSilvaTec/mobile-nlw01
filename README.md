@@ -19,9 +19,6 @@ O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas c
  
 <h2 align="center"> 📷 Screenshot da home page do projeto: </h2>
 
-steps:
-- title: What is GitHub?
-  description: After watching this video, close the first issue in your repository.
-  video: https://www.youtube.com/embed/Pvr31HZ28CA
+https://www.youtube.com/embed/Pvr31HZ28CA
 
 
